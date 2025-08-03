@@ -4,7 +4,7 @@
 - 해당 레포지토리를 Fork 혹은 Download하여 시작
 
 ## 레이어 
-Features - Services - Core - UserInterface - Shared
+Features - Domain - Core - UserInterface - Shared
 5개의 레이어를 가집니다.
 
 - Feature
