@@ -1,7 +1,7 @@
 import Foundation
 import ProjectDescription
 
-public struct ProjectEnvironment {
+public struct ProjectEnvironment: Sendable {
     public let name: String
     public let organizationName: String
     public let destinations: Destinations
